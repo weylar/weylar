@@ -2,7 +2,6 @@
 
 <!--
 **weylar/weylar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Idris Aminu (Weylar). I'm an Android Engineer at KliQr, building [KliQr](https://kliqr.com) - a Personal Financial Management (PFM) that uses artificial intelligence, to evaluate, suggest and manage users' financial habits. 
+
+I love developing for Android, and also enjoy building stuff with flutter 💖.
+
+Thanks for checking out my profile.
+
+Let's hangout on [Twitter](https://twitter.com/weylar), [Instagram](https://instagram.com/heedris), or even [LinkedIn](https://linkedin.com/in/idris-aminu-000884146/).
