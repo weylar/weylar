@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Idris Aminu (Weylar). I'm an Android Engineer at KliQr, building [KliQr](https://kliqr.com) - a Personal Financial Management (PFM) app that uses artificial intelligence, to evaluate, suggest and manage users' financial habits. 
+My name is Idris Aminu (Weylar). I'm an Android Engineer at Grimaldi, building [Grimaldi](https://www.grimaldi.napoli.it/en/index.html) - a Personal Financial Management (PFM) app that uses artificial intelligence, to evaluate, suggest and manage users' financial habits. 
 
 I love developing for Android, and also enjoy building stuff with flutter 💖. Apart from coding, I'm a prolific film watcher and new things "try-er".
 
